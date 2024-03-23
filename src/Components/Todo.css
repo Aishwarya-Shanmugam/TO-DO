@@ -1,0 +1,29 @@
+
+.card {
+    background: rgba(117, 218, 117, 0.811);
+    backdrop-filter: blur(2px);
+    margin-top: 10px;
+    line-height: 1cm;
+  }
+  #name {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#f66363, #08763d);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    max-width: 50%;
+  }
+  #status {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#f66363, #08763d);
+  background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  #description {
+    font-size: 18px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#f66363, #08763d);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
